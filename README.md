@@ -1,6 +1,6 @@
 Hi, I’m @iwanbok
 
-I am a Utrecht University master graduate. Currently I am cooperating with Amir Vaxman on project on higher order fields in parameterizations, this project is related to my master's thesis.
+I am a Utrecht University master graduate. Currently I am working as a software developer at Topicus.
 One can reach me on twitter @dr_roboknik.
 
 <!---
